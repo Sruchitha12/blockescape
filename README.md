@@ -135,7 +135,7 @@ blockescape/
 ```
 ## Team Contributions
 
-### Person 5 – (Sruchitha12) GUI Development and User Interface
+### Person 3 – (Sruchitha12) GUI Development and User Interface
 
 - Developed the graphical user interface using **Java Swing**.
 - Created and connected the Home, Level Selection, and Gameplay screens using `CardLayout`.
